@@ -44,8 +44,8 @@ export const DATA = {
         navbar: true,
       },
       Facebook: {
-        name: "Youtube",
-        url: "https://dub.sh/dillion-youtube",
+        name: "Facebook",
+        url: "https://www.facebook.com/swarnadeep.roy.90",
         icon: Icons.Facebook,
         navbar: true,
       },
