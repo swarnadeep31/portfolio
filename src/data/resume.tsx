@@ -16,6 +16,7 @@ export const DATA = {
     "Tailwind CSS",
     "Javascript",
     "SQL",
+    "NextAuth",
     "MongoDB",
     "Next.js",
     "Typescript",
@@ -152,6 +153,31 @@ export const DATA = {
     },
   ],
   projects: [
+    {
+      title: "Eso Natak Shikhi",
+      href: "https://www.esonatakshikhi.com/",
+      dates: "Jun 2024 - April 2025",
+      active: true,
+      description:
+        "Built a personal website for Dr. Tapas Das to showcase his drama school.Features include student profiles, teacher details, ongoing and upcoming event listings.",
+      technologies: [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "APIs",
+        "Tailwind Css",
+        "TypeScript",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.esonatakshikhi.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/image3.png",
+      video: "",
+    },
     {
       title: "Open Mdeia",
       href: "https://youtube-clone-v21.netlify.app/",
