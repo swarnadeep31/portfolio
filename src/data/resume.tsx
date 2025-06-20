@@ -179,7 +179,7 @@ export const DATA = {
       video: "",
     },
     {
-      title: "Open Mdeia",
+      title: "Open Media",
       href: "https://youtube-clone-v21.netlify.app/",
       dates: "Dec 2024 - Jan 2025",
       active: true,
