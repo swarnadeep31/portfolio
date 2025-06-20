@@ -139,7 +139,7 @@ export default function Page() {
               <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                 Want to chat? Just shoot me a dm{" "}
                 <a
-                  href="https://www.linkedin.com/in/swarnadeep-roy/"
+                  href="https://www.linkedin.com/in/swarnadeeproy/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-500 hover:underline"
