@@ -138,13 +138,13 @@ export default function Page() {
               </h2>
               <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                 Want to chat? Just shoot me a dm{" "}
-                <Link
-                  href="mailto:swarnadeeproy57@gmail.com"
-                  className="text-blue-500 hover:underline"
-                >
-                   with a direct question on Email
-                </Link>
-                and I&apos;ll respond whenever I can. I will ignore all
+                <a
+  href="mailto:swarnadeeproy57@gmail.com"
+  className="text-blue-500 hover:underline"
+>
+  with a direct question on Email
+</a>
+                 and I&apos;ll respond whenever I can. I will ignore all
                 soliciting.
               </p>
             </div>
