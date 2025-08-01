@@ -146,7 +146,7 @@ export const DATA = {
     {
       school: "University of Calcata",
       href: "https://www.caluniv.ac.in/",
-      degree: "Bachelor's Degree of Computer Science (BCS)",
+      degree: "Bachelor's Degree of Computer Science (BSc)",
       logoUrl: "/download.jpg",
       start: "2020",
       end: "2023",
